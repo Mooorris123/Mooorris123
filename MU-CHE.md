@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mooorris123
-- 👀 I’m interested in palying volleyball
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Morris
+- 👀 I’m interested in palying volleyball ,
+- 🌱 I’m currently learning Qt , git ,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

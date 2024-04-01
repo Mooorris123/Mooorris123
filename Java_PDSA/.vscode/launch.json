@@ -1,0 +1,62 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "<unnamed_class$ObservationStationAnalysis>",
+            "request": "launch",
+            "mainClass": "<unnamed_class$ObservationStationAnalysis>",
+            "projectName": "Java_PDSA_ed4d7225"
+        },
+        {
+            "type": "java",
+            "name": "TEST",
+            "request": "launch",
+            "mainClass": "TEST",
+            "projectName": "Java_PDSA_ed4d7225"
+        },
+        {
+            "type": "java",
+            "name": "test_ObservationStationAnalysis",
+            "request": "launch",
+            "mainClass": "test_ObservationStationAnalysis",
+            "projectName": "Java_PDSA_ed4d7225",
+            "args": [
+                "test.json"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ImageSegmentation",
+            "request": "launch",
+            "mainClass": "ImageSegmentation",
+            "projectName": "Java_PDSA_ed4d7225"
+        },
+        {
+            "type": "java",
+            "name": "Mafia",
+            "request": "launch",
+            "mainClass": "Mafia",
+            "projectName": "Java_PDSA_ed4d7225"
+        },
+        {
+            "type": "java",
+            "name": "ObservationStationAnalysis",
+            "request": "launch",
+            "mainClass": "ObservationStationAnalysis",
+            "projectName": "Java_PDSA_ed4d7225",
+            "args": [
+                "test.json"
+            ]
+        }
+    ]
+}

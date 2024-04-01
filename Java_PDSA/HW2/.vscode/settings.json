@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\Java_PDSA\\downloaded_lib\\algs4.jar",
+        "e:\\Java_PDSA\\downloaded_lib\\gson.jar"
+    ]
+}

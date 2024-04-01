@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\USER\\Downloads\\algs4.jar",
+        "downloaded_lib/algs4.jar",
+        "downloaded_lib/json-simple-1.1.1.jar",
+        "downloaded_lib/gson.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
